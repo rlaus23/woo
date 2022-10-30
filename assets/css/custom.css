@@ -2,7 +2,13 @@
     .quickMenu {
         display: none;
     }
-  }
+    div.end-call {
+        display: block !important ;
+    }
+}
+div.end-call {
+    display: none;
+}
 
 .quickMenu {
     width: 70px;
